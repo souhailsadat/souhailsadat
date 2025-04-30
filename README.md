@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 Computer Science Engineer
+- 🎓 Computer Systems Engineer
 - 💻 M2 Cybersecurity Student at Université Paris-Saclay
 - 🛡️ Learning penetration testing on TryHackMe/Root-Me/HackTheBox
 - 🏴 CTF player
