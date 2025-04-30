@@ -13,7 +13,7 @@
 
 - +4500 pts on [![](https://img.shields.io/badge/Root--Me-333333?logo=rootme)](https://www.root-me.org/5ouhil)
 - Top 1% on [![](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/souhil)
-- Ranked 58<sup>nd</sup>/2712 in [France Cybersecurity Challenge (FCSC 2025)](https://hackropole.fr/en/ranking/fcsc2025/) ![](https://img.shields.io/badge/CTF-2D2D2D)
+- Ranked 58<sup>th</sup>/2712 in [France Cybersecurity Challenge (FCSC 2025)](https://hackropole.fr/en/ranking/fcsc2025/) ![](https://img.shields.io/badge/CTF-2D2D2D)
 - Published a [scientific paper](https://dl.acm.org/doi/10.1145/3664476.3670445) at ARES’24 conference
 
 ### Technical Toolkit
