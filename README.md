@@ -1,8 +1,8 @@
 # Souhail SADAT
 
----
+*Ethical Hacking Enthusiast*
 
-Ethical Hacking Enthusiast
+---
 
 - 🎓 Computer Science Engineer
 - 💻 Cybersecurity Student at Paris-Saclay University
