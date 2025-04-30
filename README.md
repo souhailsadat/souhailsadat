@@ -5,16 +5,16 @@
 ---
 
 - 🎓 Computer Science Engineer
-- 💻 Cybersecurity Student at Paris-Saclay University
+- 💻 M2 Cybersecurity Student at Université Paris-Saclay
 - 🛡️ Learning penetration testing on TryHackMe/Root-Me/HackTheBox
 - 🏴 CTF player
 
 ### Achievements
 
-- +4500 pts on [Root-Me](https://www.root-me.org/5ouhil) ![](https://img.shields.io/badge/Root--Me-gray?logo=rootme)
-- Top 1% [TryHackMe](https://tryhackme.com/p/souhil) ![](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)
-- Ranked 58<sup>nd</sup>/2712 in [France Cybersecurity Challenge (FCSC 2025)](https://hackropole.fr/en/ranking/fcsc2025/)
-- Published a [scientific paper](https://dl.acm.org/doi/10.1145/3664476.3670445) on ARES’24 conference
+- +4500 pts on [Root-Me](https://www.root-me.org/5ouhil) ![](https://img.shields.io/badge/Root--Me-333333?logo=rootme)
+- Top 1% on [TryHackMe](https://tryhackme.com/p/souhil) ![](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)
+- Ranked 58<sup>nd</sup>/2712 in [France Cybersecurity Challenge (FCSC 2025)](https://hackropole.fr/en/ranking/fcsc2025/) ![](https://img.shields.io/badge/CTF-2D2D2D)
+- Published a [scientific paper](https://dl.acm.org/doi/10.1145/3664476.3670445) at ARES’24 conference
 
 ### Technical Toolkit
 
