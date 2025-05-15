@@ -1,6 +1,6 @@
 # Souhail SADAT
 
-*Ethical Hacking Enthusiast | M2 Cybersecurity Student | Computer Systems Engineer*
+*Cybersecurity Enthusiast | M2 Cybersecurity Student | Computer Systems Engineer*
 
 ---
 
